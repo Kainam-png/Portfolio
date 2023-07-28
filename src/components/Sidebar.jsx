@@ -9,7 +9,7 @@ const Sidebar = () => {
       <p className="title">Desenvolvedor</p>
       <SocialNetwork/>
       <InformationContainer/>
-      <a href="" className="btn">
+      <a href="https://drive.google.com/drive/folders/1F7JsAIXfU88JfTHa0lFb6PgNVXXCCQ_Y" target="_blank" className="btn">
         Download curriculo
       </a>
     </aside>
